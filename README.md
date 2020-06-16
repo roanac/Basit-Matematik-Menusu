@@ -3,6 +3,7 @@ basit matematik işlemleri içeren kendi çapımdaki ilk projem
 
 
 #include <stdio.h>
+
 #include <stdlib.h>
 
 
